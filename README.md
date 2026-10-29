@@ -6,7 +6,7 @@ I build and improve cloud infrastructure, automate CI/CD pipelines, and work tow
 
 ## 👨‍💻 About Me
 
-- DevOps Engineer with 2 years of experience in cloud infrastructure and CI/CD automation.
+- DevOps Engineer with 3 years of experience in cloud infrastructure and CI/CD automation.
 - Experience working with AWS and Microsoft Azure.
 - Focused on Infrastructure as Code, containerization, pipeline automation, monitoring, and security.
 - Interested in building reusable CI/CD workflows and improving deployment reliability.
@@ -60,7 +60,6 @@ I build and improve cloud infrastructure, automate CI/CD pipelines, and work tow
 
 ## 🎯 Current Focus
 
-- Cloud infrastructure and Kubernetes administration
 - Jenkins pipeline engineering and shared libraries
 - CloudBees CI administration and pipeline governance
 - JFrog Artifactory repository management and dependency control
